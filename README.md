@@ -21,7 +21,7 @@ It allows users to add, edit, and delete tasks, with all data stored in a Postgr
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the repository
 ```bash
